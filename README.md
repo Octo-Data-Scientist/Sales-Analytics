@@ -1,4 +1,4 @@
-# Sales-Analytics
+# Customer Sales Analysis
 
 ## Introduction
 Companies sells their goods and services, this dataset includes the sales of different products in a product store
